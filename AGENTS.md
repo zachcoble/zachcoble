@@ -1,0 +1,3 @@
+# Public profile maintenance
+
+Keep this profile accurate, concise and professional. Do not invent qualifications, employment, certifications, availability or metrics. Do not publish private infrastructure addresses, personal financial/customer data, tokens or private keys. Inspect Git status and history before editing. Preserve existing history; do not force-push. User confirmation is required for account/profile publication and visibility changes. Review avatar assets visually before uploading. Read README for the current approved draft; new commits should use the verified GitHub no-reply author identity.
