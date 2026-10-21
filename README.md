@@ -6,7 +6,7 @@ CompTIA Security+ certified. Studying for CCNA, then Azure (AZ-104/AZ-500). I de
 
 ## What I'm doing right now
 
-- Running a self-hosted homelab — Proxmox, OPNsense VLAN segmentation, Tailscale overlay, Caddy + DNS-01 TLS, n8n automation — as a live environment I maintain, not a tutorial I followed once
+- Running a self-hosted homelab — Proxmox, OPNsense VLAN segmentation, Tailscale overlay, self-hosted RustDesk for remote access, Caddy + DNS-01 TLS, n8n automation — as a live environment I maintain, not a tutorial I followed once
 - Studying for CCNA
 - Working IT support for a few hundred endpoints across a multi-domain Active Directory environment: imaging, patching, structured cabling, and endpoint lifecycle management
 - Building small tools and documenting them properly instead of leaving half-finished scripts in a folder
@@ -23,15 +23,15 @@ CompTIA Security+ certified. Studying for CCNA, then Azure (AZ-104/AZ-500). I de
 
 **Structured cabling** — Cat6/RJ45 termination, RJ11 voice, 110 punch-down, keystone jacks, patch panels
 
-**Systems & directory** — Windows 10/11, Active Directory (domain join, computer objects, least-privilege accounts), Linux (Debian/Ubuntu)
+**Systems & directory** — Windows 11 deployment and administration at scale (100+ endpoints imaged and configured), Active Directory (domain join, computer objects, least-privilege accounts), Linux (Debian/Ubuntu)
 
-**Endpoint deployment** — Clonezilla imaging, Audit Mode/Sysprep/OOBE, BIOS/UEFI configuration, asset tracking
+**Endpoint deployment** — Clonezilla imaging, Audit Mode/Sysprep/OOBE, BIOS/UEFI configuration, Dell Command | Update, asset tracking
 
 **Scripting & automation** — PowerShell, batch, winget, n8n workflow automation
 
 **Security** — vulnerability scanning, patch/OS lifecycle management, least-privilege configuration, Tailscale/WireGuard secure remote access, network segmentation
 
-**Platforms** — Proxmox VE, OPNsense, Tailscale, Pi-hole, Caddy
+**Platforms** — Proxmox VE, OPNsense, Tailscale, RustDesk, Pi-hole, Caddy
 
 ## Certifications
 
