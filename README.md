@@ -36,10 +36,6 @@ A local workspace for tasks, notes, shortcuts, backups, and manually prepared AI
 **Automation** — PowerShell, Bash, n8n<br>
 **Local applications** — Python, SQLite, JavaScript
 
-## Also building
-
-[**CashFlow →**](https://github.com/zachcoble/cashflow) A local income-allocation planner built with FastAPI, SQLite, and vanilla JavaScript.
-
 ---
 
 Interested in Linux administration, networking, infrastructure engineering, data center operations, and useful automation.
