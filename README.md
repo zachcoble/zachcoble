@@ -1,38 +1,47 @@
-# Zach Coble
+<img src="assets/portfolio-header.svg" width="100%" alt="Zach Coble — Linux, networks, infrastructure and automation" />
 
-IT Support Technician → Network/Security Engineer in progress.
+I build practical IT tools and document the systems behind them. Explore my homelab, Windows and Linux automation, and work on local AI workflows.
 
-CompTIA Security+ certified. Studying for CCNA, then Azure (AZ-104/AZ-500). I deploy and administer Windows fleets, do hands-on physical networking (structured cabling, cable tracing, wireless AP installs), and run a self-hosted virtualization lab where I actually have to live with the decisions I make.
+## Selected projects
 
-## What I'm doing right now
+### Homelab Infrastructure
 
-- Running a self-hosted homelab — Proxmox, OPNsense VLAN segmentation, Tailscale overlay, self-hosted RustDesk for remote access, Caddy + DNS-01 TLS, n8n automation, plus a self-hosted Nextcloud (file/cloud storage) and Jellyfin (media server) — as a live environment I maintain, not a tutorial I followed once
-- Studying for CCNA
-- Working IT support for a few hundred endpoints across a multi-domain Active Directory environment: imaging, patching, structured cabling, and endpoint lifecycle management
+[![Illustrative homelab architecture: private access, Proxmox, services and monitoring](assets/portfolio-homelab.svg)](https://github.com/zachcoble/homelab)
 
-## Featured projects
+My self-hosted infrastructure notebook: Proxmox virtualization, private remote access, service monitoring, and the decisions behind running a homelab.
 
-- **[homelab](https://github.com/zachcoble/homelab)** — Proxmox + OPNsense VLAN isolation + Tailscale overlay + Caddy/DNS-01 TLS, documented end to end with real-world "what I learned"
-- **[pc-inventory-toolkit](https://github.com/zachcoble/pc-inventory-toolkit)** — dependency-free PowerShell hardware-inventory script, plus a field guide for turning raw specs into a correct parts order
-- **[cashflow](https://github.com/zachcoble/cashflow)** — small full-stack app: API backend, SQLite, JS frontend
+**Proxmox · Linux · Tailscale · n8n · Jellyfin · Nextcloud · Pi-hole**<br>
+[Explore the homelab →](https://github.com/zachcoble/homelab)
 
-## Skills
+### PC Inventory Toolkit
 
-**Networking** — TCP/IP, DNS, DHCP, VPN, subnetting, switch-port troubleshooting, wireless AP deployment, cable tracing (tone generator & inductive probe)
+[![Illustrative workflow: Windows and Linux hardware queries produce reports for review](assets/portfolio-inventory.svg)](https://github.com/zachcoble/pc-inventory-toolkit)
 
-**Structured cabling** — Cat6/RJ45 termination, RJ11 voice, 110 punch-down, keystone jacks, patch panels
+Hardware inventory built around a practical question: what information do I need to order a compatible replacement or upgrade? Windows and Linux scripts, structured reports, and a parts-ordering field guide.
 
-**Systems & directory** — Windows 11 deployment and administration at scale (100+ endpoints imaged and configured), Active Directory (domain join, computer objects, least-privilege accounts), Linux (Debian/Ubuntu)
+**PowerShell · Bash · CIM/WMI · Linux hardware tools**<br>
+[View the toolkit →](https://github.com/zachcoble/pc-inventory-toolkit)
 
-**Endpoint deployment** — Clonezilla imaging, Audit Mode/Sysprep/OOBE, BIOS/UEFI configuration, Dell Command | Update, asset tracking
+### Personal AI OS · In progress
 
-**Scripting & automation** — PowerShell, batch, winget, n8n workflow automation
+![Illustrative local workflow: tasks and notes, local storage, selected context, and a manual handoff](assets/portfolio-ai-os.svg)
 
-**Security** — vulnerability scanning, patch/OS lifecycle management, least-privilege configuration, Tailscale/WireGuard secure remote access, network segmentation
+A local workspace for tasks, notes, shortcuts, backups, and manually prepared AI handoffs. Private implementation; automatic AI integrations are still in development.
 
-**Platforms** — Proxmox VE, OPNsense, Tailscale, RustDesk, Nextcloud, Jellyfin, Pi-hole, Caddy
+**Python · SQLite · HTML/CSS · JavaScript**
 
-## Certifications
+## Tools I build with
 
-- CompTIA Security+ (April 2026)
-- Cisco CCNA 200-301 — in progress
+**Infrastructure** — Proxmox, Linux, Tailscale<br>
+**Automation** — PowerShell, Bash, n8n<br>
+**Local applications** — Python, SQLite, JavaScript
+
+## Also building
+
+[**CashFlow →**](https://github.com/zachcoble/cashflow) A local income-allocation planner built with FastAPI, SQLite, and vanilla JavaScript.
+
+---
+
+Interested in Linux administration, networking, infrastructure engineering, data center operations, and useful automation.
+
+<sub>Project diagrams are illustrative; operational configuration and personal data stay private.</sub>
