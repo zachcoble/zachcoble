@@ -8,7 +8,7 @@ I build practical IT tools and document the systems behind them. Explore my home
 
 [![Illustrative homelab architecture: private access, Proxmox, services and monitoring](assets/portfolio-homelab.svg)](https://github.com/zachcoble/homelab)
 
-My self-hosted infrastructure notebook: Proxmox virtualization, private remote access, service monitoring, and the decisions behind running a homelab.
+My self-hosted infrastructure notebook: Proxmox virtualization, Jellyfin media streaming, private access through Tailscale, and service monitoring.
 
 **Proxmox · Linux · Tailscale · n8n · Jellyfin · Nextcloud · Pi-hole**<br>
 [Explore the homelab →](https://github.com/zachcoble/homelab)
